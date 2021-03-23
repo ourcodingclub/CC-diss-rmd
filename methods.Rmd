@@ -1,0 +1,10 @@
+---
+title: ''
+output: pdf_document
+---
+
+# Methods 
+
+\vspace{0.5cm}
+
+Write your methods here. In this tutorial you can use this already made file\\to add examples of figures and tables and explore knitr and kableExtra functionalities!

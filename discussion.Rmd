@@ -1,0 +1,13 @@
+---
+title: ''
+output: pdf_document
+---
+
+
+# Discussion
+
+the purpose of the discussion is to summarise your major findings and place them in the context of the current state of knowledge in the literature. When you discuss your own work and that of others, back up your statements with evidence and citations.
+- The first part of the discussion should contain a summary of your major findings (usually 2 – 4 points) and a brief summary of the implications of your findings. Ideally, it should make reference to whether you found support for your hypotheses or answered your questions that were placed at the end of the introduction.
+- The following paragraphs will then usually describe each of these findings in greater detail, making reference to previous studies.
+- Often the discussion will include one or a few paragraphs describing the limitations of your study and the potential for future research.
+- Subheadings within the discussion can be useful for orienting the reader to the major themes that are addressed.

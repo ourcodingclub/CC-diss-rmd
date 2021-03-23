@@ -1,0 +1,17 @@
+---
+title: " "
+output: pdf_document
+header-includes:
+  - \usepackage{float}
+  - \usepackage{sectsty}
+---
+
+# Introduction
+
+- introduce the reader to the subject area and clarify the knowledge gap that the dissertation research will fill.
+- set the context for the dissertation by reviewing the relevant literature.
+- include relevant references to general (theoretical papers and reviews) and specific (specific to the particular question addressed) literature, to justify the research that has been undertaken and define the questions being addressed.
+- state the primary research questions and hypotheses in the final paragraph.
+- follow an ‘inverted triangle’ format, progressing from general scientific ideas and why they matter to the specific research questions addressed in the dissertation project. 
+
+*The introduction should not be just a ‘Literature Review’.*
