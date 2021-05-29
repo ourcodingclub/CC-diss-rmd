@@ -1,7 +1,6 @@
 # Write your dissertation in Rmarkdown
 
-This repository contains the files necessary to complete the Coding Club write your dissertation in Rmarkdown tutorial - you can check it out at:
-INSERT HTML LINK HERE 
+This repository contains the files necessary to complete the Coding Club write your dissertation in Rmarkdown tutorial - you can check it out at: https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/
 
 The `data` folder contains a sample dataset called `puffins_temp.csv`. The dataset presents climate data (tmin and tmax), released by the [International Comprehensive Ocean-Atmosphere Data Set (ICOADS) Release 3, Monthly Summaries](https://rda.ucar.edu/datasets/ds548.1/) and population trends of *Fratercula arctica* species (Atlantic puffins), collected as part of the [Seabird Monitroing Programme](http://jncc.defra.gov.uk/page-1550). 
 
